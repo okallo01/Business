@@ -1,0 +1,17 @@
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Raleway", sans-serif
+}
+.hrline {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+#div_height {
+    background-color: blue;
+    height: 100%;
+}
+
+/* h5 heading */
+.w3-white > h5 {
+    font-weight: bolder;
+    color: #4049B2;
+}
