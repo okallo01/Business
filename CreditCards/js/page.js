@@ -23,3 +23,8 @@ function SendMgs() {
         window.location.reload()
     }
   }
+
+// date
+const d = new Date();
+let year = d.getFullYear();
+document.getElementById("date").innerHTML = year;
